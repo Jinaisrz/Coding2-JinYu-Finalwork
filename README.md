@@ -5,6 +5,11 @@ I created Boids with snowflake graphics to give people the opportunity to want t
 While the addition of the arduino's buttons worked, it also added a bug that was difficult to improve at my current level. The buttons would increase the number of snowflakes indefinitely and the screen would not move, and the only way to see the increase was to pull out the arduino. So I added Gui to enhance the complexity of the project and set the size of each of the two Boids to change
 
 ![WechatIMG179](https://user-images.githubusercontent.com/115119995/225971484-90eefa6e-f9ac-4be6-81f7-203ef0205036.jpeg)
+
+![circuit](https://user-images.githubusercontent.com/115119995/225978613-102b2e1b-77aa-4bb0-a4c3-d281d9acc066.png)
+
+<img width="494" alt="截屏2023-03-17 17 35 42" src="https://user-images.githubusercontent.com/115119995/225978580-e2edbf9e-10e1-4db4-86fa-a0e5ffa997a8.png">
+
 <img width="766" alt="截屏2023-03-17 17 01 34" src="https://user-images.githubusercontent.com/115119995/225971497-728908d9-464b-4b94-9912-37f0513fa601.png">
 
 Before pulling out the arduino
