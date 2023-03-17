@@ -23,7 +23,8 @@ Then update() calculates the next position and velocity based on the current pos
 
 Finally through draw() is the snowflake object's draw function, which draws the snowflake image to the screen based on the object's position and size.
 
+# Final work
+
 <img width="1022" alt="final" src="https://user-images.githubusercontent.com/115119995/225973174-6ddfb290-b1d1-486a-af6c-c0e3e27557b8.png">
-Final work
 
 ### Videolink: https://youtu.be/Jri5LnZJMoo
