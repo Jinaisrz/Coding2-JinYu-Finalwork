@@ -30,6 +30,10 @@ Finally through draw() is the snowflake object's draw function, which draws the 
 
 # Final work
 
+<img width="1016" alt="截屏2023-03-17 17 41 40" src="https://user-images.githubusercontent.com/115119995/225979127-57166728-cabf-4ff7-b1ae-911eae9a3f2e.png">
+
 <img width="1022" alt="final" src="https://user-images.githubusercontent.com/115119995/225973174-6ddfb290-b1d1-486a-af6c-c0e3e27557b8.png">
+
+<img width="1020" alt="截屏2023-03-17 17 43 29" src="https://user-images.githubusercontent.com/115119995/225979501-3cd40bf5-42b8-4437-9150-ffe221181edd.png">
 
 ### Videolink: https://youtu.be/Jri5LnZJMoo
